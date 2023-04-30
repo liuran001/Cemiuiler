@@ -12,3 +12,6 @@ local.properties
 /app/beta
 /app/canary
 /app/debug
+website/node_modules
+website/.temp
+website/.cache
